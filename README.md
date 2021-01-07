@@ -2,6 +2,8 @@
 
 Make jsinspect results easier to analyze by comparing them side-by-side.
 
+![JSInspector screenshot](docs/screenshot.jpg)
+
 ### Usage
 
 1. Place JSON output of `jsinspect --reporter=json` into `./server/data/report.json`  
